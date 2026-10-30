@@ -8,7 +8,7 @@ I'm a Computer Engineering student in Alexandria, Egypt, with a strong passion f
   <a href="mailto:belalasser022@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="www.linkedin.com/in/belal-asser-76a33121a">
+  <a href="https://www.linkedin.com/in/belal-asser-76a33121a">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <img src="https://img.shields.io/badge/Location-Alexandria,_Egypt-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
